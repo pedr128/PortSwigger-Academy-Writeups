@@ -1,0 +1,12 @@
+PortSwigger Academy Writeups
+
+Write-ups técnicos dos labs resolvidos por mim, com foco em:
+- Entendimento da falha
+- Exploração
+- Impacto real
+- Mitigação
+
+## Estrutura
+- 01-Path-Traversal
+- 02-Authentication
+- 03-Access-Control
