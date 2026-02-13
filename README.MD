@@ -7,6 +7,9 @@ Write-ups técnicos dos labs resolvidos por mim, com foco em:
 - Mitigação
 
 ## Estrutura
-- 01-Path-Traversal
-- 02-Authentication
-- 03-Access-Control
+
+
+- [01-Path-Traversal](01-Path-Traversal/)
+- [02-Authentication](02-Authentication/)
+- [03-Access-Control](03-Access-Control/)
+
